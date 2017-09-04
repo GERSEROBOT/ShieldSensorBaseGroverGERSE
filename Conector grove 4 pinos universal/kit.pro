@@ -1,4 +1,4 @@
-update=Seg 04 Set 2017 14:44:16 BRT
+update=Seg 04 Set 2017 14:15:23 BRT
 version=1
 last_client=kicad
 [cvpcb]
@@ -40,6 +40,16 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/home/dalek/Dropbox/GIT_pedro-ibs/KiCad/MYkicad/MyLib-ALL/MyLib-ALL
+[schematic_editor]
+version=1
+PageLayoutDescrFile=/home/dalek/Dropbox/GIT_pedro-ibs/KiCad/MYkicad/Template/template-GERSE01.kicad_wks
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [pcbnew]
 version=1
 PageLayoutDescrFile=/home/dalek/Dropbox/GIT_pedro-ibs/KiCad/MYkicad/Template/template-GERSE01.kicad_wks
@@ -59,13 +69,3 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
-[schematic_editor]
-version=1
-PageLayoutDescrFile=/home/dalek/Dropbox/GIT_pedro-ibs/KiCad/MYkicad/Template/template-GERSE01.kicad_wks
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60

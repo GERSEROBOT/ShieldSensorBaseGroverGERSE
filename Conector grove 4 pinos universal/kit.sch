@@ -35,12 +35,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Shield Sensor Base Grover GERSE  molex 2510 4 pinos"
+Title "Shield Sensor Base Grover GERSE  Conector grove 4 pinos universal"
 Date "2017-06-30"
 Rev "1.2"
 Comp "Shield Sensor Base Grover GERSE"
 Comment1 ""
-Comment2 ""
+Comment2 "Pedro Igor B. S."
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -185,7 +185,7 @@ U 1 1 58FF5D04
 P 2200 900
 F 0 "P3" H 2200 1150 50  0000 C CNN
 F 1 "A2" V 2300 900 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 2200 900 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 2200 900 50  0001 C CNN
 F 3 "" H 2200 900 50  0000 C CNN
 	1    2200 900 
 	0    -1   -1   0   
@@ -196,7 +196,7 @@ U 1 1 58FF5D9B
 P 1600 900
 F 0 "P2" H 1600 1150 50  0000 C CNN
 F 1 "A1" V 1700 900 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 1600 900 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 1600 900 50  0001 C CNN
 F 3 "" H 1600 900 50  0000 C CNN
 	1    1600 900 
 	0    -1   -1   0   
@@ -207,7 +207,7 @@ U 1 1 58FF5DE5
 P 1000 900
 F 0 "P1" H 1000 1150 50  0000 C CNN
 F 1 "A0" V 1100 900 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 1000 900 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 1000 900 50  0001 C CNN
 F 3 "" H 1000 900 50  0000 C CNN
 	1    1000 900 
 	0    -1   -1   0   
@@ -218,7 +218,7 @@ U 1 1 58FF6958
 P 2800 900
 F 0 "P4" H 2800 1150 50  0000 C CNN
 F 1 "A3" V 2900 900 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 2800 900 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 2800 900 50  0001 C CNN
 F 3 "" H 2800 900 50  0000 C CNN
 	1    2800 900 
 	0    -1   -1   0   
@@ -321,7 +321,7 @@ U 1 1 58FF8FFC
 P 2150 2050
 F 0 "P6" H 2150 2300 50  0000 C CNN
 F 1 "D2" V 2250 2050 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 2150 2050 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 2150 2050 50  0001 C CNN
 F 3 "" H 2150 2050 50  0000 C CNN
 	1    2150 2050
 	0    -1   -1   0   
@@ -332,7 +332,7 @@ U 1 1 58FF9002
 P 1550 2050
 F 0 "P7" H 1550 2300 50  0000 C CNN
 F 1 "D3" V 1650 2050 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 1550 2050 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 1550 2050 50  0001 C CNN
 F 3 "" H 1550 2050 50  0000 C CNN
 	1    1550 2050
 	0    -1   -1   0   
@@ -343,7 +343,7 @@ U 1 1 58FF9008
 P 950 2050
 F 0 "P8" H 950 2300 50  0000 C CNN
 F 1 "D4" V 1050 2050 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 950 2050 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 950 2050 50  0001 C CNN
 F 3 "" H 950 2050 50  0000 C CNN
 	1    950  2050
 	0    -1   -1   0   
@@ -425,7 +425,7 @@ U 1 1 58FF9A7D
 P 2750 2050
 F 0 "P5" H 2750 2300 50  0000 C CNN
 F 1 "UART" V 2850 2050 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 2750 2050 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 2750 2050 50  0001 C CNN
 F 3 "" H 2750 2050 50  0000 C CNN
 	1    2750 2050
 	0    -1   -1   0   
@@ -473,7 +473,7 @@ U 1 1 58FFA2FC
 P 2150 3000
 F 0 "P10" H 2150 3250 50  0000 C CNN
 F 1 "D6" V 2250 3000 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 2150 3000 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 2150 3000 50  0001 C CNN
 F 3 "" H 2150 3000 50  0000 C CNN
 	1    2150 3000
 	0    -1   -1   0   
@@ -484,7 +484,7 @@ U 1 1 58FFA302
 P 1550 3000
 F 0 "P11" H 1550 3250 50  0000 C CNN
 F 1 "D7" V 1650 3000 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 1550 3000 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 1550 3000 50  0001 C CNN
 F 3 "" H 1550 3000 50  0000 C CNN
 	1    1550 3000
 	0    -1   -1   0   
@@ -495,7 +495,7 @@ U 1 1 58FFA308
 P 950 3000
 F 0 "P12" H 950 3250 50  0000 C CNN
 F 1 "D8" V 1050 3000 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 950 3000 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 950 3000 50  0001 C CNN
 F 3 "" H 950 3000 50  0000 C CNN
 	1    950  3000
 	0    -1   -1   0   
@@ -569,7 +569,7 @@ U 1 1 58FFA32F
 P 2750 3000
 F 0 "P9" H 2750 3250 50  0000 C CNN
 F 1 "D5" V 2850 3000 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 2750 3000 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 2750 3000 50  0001 C CNN
 F 3 "" H 2750 3000 50  0000 C CNN
 	1    2750 3000
 	0    -1   -1   0   
@@ -617,7 +617,7 @@ U 1 1 58FFB062
 P 4750 900
 F 0 "P14" H 4750 1150 50  0000 C CNN
 F 1 "I2C" V 4850 900 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 4750 900 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 4750 900 50  0001 C CNN
 F 3 "" H 4750 900 50  0000 C CNN
 	1    4750 900 
 	0    -1   -1   0   
@@ -628,7 +628,7 @@ U 1 1 58FFB068
 P 4150 900
 F 0 "P15" H 4150 1150 50  0000 C CNN
 F 1 "I2C" V 4250 900 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 4150 900 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 4150 900 50  0001 C CNN
 F 3 "" H 4150 900 50  0000 C CNN
 	1    4150 900 
 	0    -1   -1   0   
@@ -639,7 +639,7 @@ U 1 1 58FFB06E
 P 3550 900
 F 0 "P16" H 3550 1150 50  0000 C CNN
 F 1 "I2C" V 3650 900 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 3550 900 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 3550 900 50  0001 C CNN
 F 3 "" H 3550 900 50  0000 C CNN
 	1    3550 900 
 	0    -1   -1   0   
@@ -713,7 +713,7 @@ U 1 1 58FFB095
 P 5350 900
 F 0 "P13" H 5350 1150 50  0000 C CNN
 F 1 "I2C" V 5450 900 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 5350 900 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 5350 900 50  0001 C CNN
 F 3 "" H 5350 900 50  0000 C CNN
 	1    5350 900 
 	0    -1   -1   0   
@@ -799,7 +799,7 @@ U 1 1 592257FE
 P 2500 3850
 F 0 "P19" H 2500 4100 50  0000 C CNN
 F 1 "D9" V 2600 3850 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 2500 3850 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 2500 3850 50  0001 C CNN
 F 3 "" H 2500 3850 50  0000 C CNN
 	1    2500 3850
 	0    -1   -1   0   
@@ -835,7 +835,7 @@ U 1 1 592258D3
 P 1850 3850
 F 0 "P18" H 1850 4100 50  0000 C CNN
 F 1 "D10" V 1950 3850 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 1850 3850 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 1850 3850 50  0001 C CNN
 F 3 "" H 1850 3850 50  0000 C CNN
 	1    1850 3850
 	0    -1   -1   0   
@@ -871,7 +871,7 @@ U 1 1 59225A2F
 P 1200 3850
 F 0 "P17" H 1200 4100 50  0000 C CNN
 F 1 "D11" V 1300 3850 50  0000 C CNN
-F 2 "MY_kicad:molex_2510" H 1200 3850 50  0001 C CNN
+F 2 "MyFootprint:Grove 4 pinos" H 1200 3850 50  0001 C CNN
 F 3 "" H 1200 3850 50  0000 C CNN
 	1    1200 3850
 	0    -1   -1   0   
